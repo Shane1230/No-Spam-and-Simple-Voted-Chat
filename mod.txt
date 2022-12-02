@@ -1,0 +1,26 @@
+{
+	"name" : "No Spam and Simple Voted Chat",
+	"description" : "Simple voted chat and no more spam when rebuy preplanning",
+	"author" : "Shane",
+	"Contact" : "https://steamcommunity.com/id/Shane1230/",
+	"version" : "1.0",
+	"priority": 1,
+	"hooks": [
+		{ 
+			"hook_id" : "lib/managers/preplanningmanager",
+			"script_path" : "no_spam.lua"
+		},
+		{ 
+			"hook_id" : "lib/managers/localizationmanager",
+			"script_path" : "simple.lua"
+		}
+	],
+	"updates": [
+        		{
+		"identifier": "nssvc",
+		"host": {
+		"meta": "https://raw.githubusercontent.com/Shane1230/autoupdate/main/NSSVC"
+	 	}
+	}
+	]	
+}
