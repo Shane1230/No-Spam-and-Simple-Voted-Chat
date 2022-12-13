@@ -1,6 +1,6 @@
 {
 	"name" : "No Spam and Simple Voted Chat",
-	"description" : "Simple voted chat and no more spam when rebuy preplanning",
+	"description" : "Simple voted message and no more spam when someone rebuy preplanning",
 	"author" : "Shane",
 	"Contact" : "https://steamcommunity.com/id/Shane1230/",
 	"version" : "1.0",
