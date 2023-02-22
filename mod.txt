@@ -3,7 +3,7 @@
 	"description" : "Simple voted message and no more spam when someone rebuy preplanning",
 	"author" : "Shane",
 	"Contact" : "https://steamcommunity.com/id/Shane1230/",
-	"version" : "1.0",
+	"version" : "1.1",
 	"priority": 1,
 	"hooks": [
 		{ 
