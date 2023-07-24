@@ -1,0 +1,8 @@
+{
+	"NSSVC_menu_main_title" : "No Smap and Simple Voted Chat",
+	"NSSVC_menu_main_desc" : "No Smap and Simple Voted Chat Options",
+	"NSSVC_no_spam_title" : "No spam",
+	"NSSVC_no_spam_desc" : "Do not spam vote chat when rebuy preplaning",
+	"NSSVC_simple_chat_title" : "Simple vote chat",
+	"NSSVC_simple_chat_desc" : "Replace vote chat to simple\nex) [player] | [vote]"
+}

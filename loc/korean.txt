@@ -1,0 +1,8 @@
+{
+	"NSSVC_menu_main_title" : "No Smap and Simple Voted Chat",
+	"NSSVC_menu_main_desc" : "No Smap and Simple Voted Chat 옵션",
+	"NSSVC_no_spam_title" : "투표 도배 방지",
+	"NSSVC_no_spam_desc" : "에셋 재구매시 도배되는 투표 채팅을 방지합니다.",
+	"NSSVC_simple_chat_title" : "간략한 투표 채팅",
+	"NSSVC_simple_chat_desc" : "투표시 채팅을 간략하게 표시해줍니다.\n 예시) [player] | [vote]"
+}
